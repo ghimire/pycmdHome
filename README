@@ -1,0 +1,16 @@
+
+## pycmdHome v1.0 ##
+
+@license: GPL v2.0
+
+pycmdHome is a nifty little program that waits and listens for commands
+sent through email. The command is executed with current user permission
+and a reply is sent to the email sender.
+
+Features:
+* Sender Whitelist
+* Subject Check
+* Command Pattern Check
+* Decode base64 emails.
+
+Note: All emails are deleted right after they are checked.
